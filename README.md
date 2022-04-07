@@ -3,3 +3,6 @@
 - Before I inserted record one by one so it took around 1 minute to complete the same job, It was very heavey weight process and it established connection with database for every insertion operation.
 - It is very usefull in excel import and export operations. We can fetch the data from ItemReader<T> objects and give to itemWriter. We can also take chunks of data from itermReader and write those chunks of data to itermWriter.
 - My Job output looks like Job: [SimpleJob: [name=jobA]] completed with the following parameters: [{time=1620029545051}] and the following status: [COMPLETED] in 8s63ms
+
+# spring-boot-batch-processing-with-camel
+spring-boot-batch-processing-with-camel
